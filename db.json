@@ -3,26 +3,26 @@
     {
       "id": 66,
       "latlng": [
-        51.5074,
-        -0.1278
+         55.563285,
+         9.546645
       ],
       "status": "green",
       "name": "London",
       "firmware": "1.0.0",
-      "description": "This is London marker",
-      "message": "No issues reported",
+      "description": "Single pole transformer monitoring system. Temperature and vibration monitoring of three individual transformers",
+      "message": "System online",
       "type": "Transformer"
     },
     {
       "id": 67,
       "latlng": [
-        40.7128,
-        -74.006
+        55.668754,
+        12.421165
       ],
       "status": "red",
       "name": "New York",
       "firmware": "1.2.3",
-      "description": "This is New York marker",
+      "description": "This system is for demoing the SDAS UI and Cloud functionality. The system is currently configured for transformer monitoring.",
       "message": "Critical issue reported",
       "type": "Transformer"
     },
