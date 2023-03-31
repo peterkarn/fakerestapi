@@ -1,0 +1,132 @@
+'[
+  {
+    "id": 1,
+    "latlng": [
+      51.5074,
+      -0.1278
+    ],
+    "status": "green",
+    "name": "London",
+    "firmware": "1.0.0",
+    "description": "This is London marker",
+    "message": "No issues reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 2,
+    "latlng": [
+      40.7128,
+      -74.006
+    ],
+    "status": "red",
+    "name": "New York",
+    "firmware": "1.2.3",
+    "description": "This is New York marker",
+    "message": "Critical issue reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 3,
+    "latlng": [
+      35.6895,
+      139.6917
+    ],
+    "status": "yellow",
+    "name": "Tokyo",
+    "firmware": "2.0.0",
+    "description": "This is Tokyo marker",
+    "message": "Minor issue reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 4,
+    "latlng": [
+      48.8566,
+      2.3522
+    ],
+    "status": "green",
+    "name": "Paris",
+    "firmware": "3.1.0",
+    "description": "This is Paris marker",
+    "message": "No issues reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 5,
+    "latlng": [
+      37.7749,
+      -122.4194
+    ],
+    "status": "red",
+    "name": "San Francisco",
+    "firmware": "2.0.0",
+    "description": "This is San Francisco marker",
+    "message": "Critical issue reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 6,
+    "latlng": [
+      52.52,
+      13.405
+    ],
+    "status": "yellow",
+    "name": "Berlin",
+    "firmware": "1.5.0",
+    "description": "This is Berlin marker",
+    "message": "Minor issue reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 7,
+    "latlng": [
+      37.5665,
+      126.978
+    ],
+    "status": "green",
+    "name": "Seoul",
+    "firmware": "1.0.0",
+    "description": "This is Seoul marker",
+    "message": "No issues reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 8,
+    "latlng": [
+      41.9028,
+      12.4964
+    ],
+    "status": "red",
+    "name": "Rome",
+    "firmware": "1.2.0",
+    "description": "This is Rome marker",
+    "message": "Critical issue reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 9,
+    "latlng": [
+      45.4215,
+      -75.6972
+    ],
+    "status": "yellow",
+    "name": "Ottawa",
+    "firmware": "1.1.0",
+    "description": "This is Ottawa marker",
+    "message": "Minor issue reported",
+    "type": "Transformer"
+  },
+  {
+    "id": 10,
+    "latlng": [
+      35.6897,
+      139.6922
+    ],
+    "status": "green",
+    "name": "Shinjuku",
+    "firmware": "2.0.1",
+    "description": "This is Shinjuku marker",
+    "message": "No issues reported",
+    "type": "Transformer"
+  }
+]'
