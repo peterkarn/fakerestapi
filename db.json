@@ -7,7 +7,7 @@
          9.546645
       ],
       "status": "green",
-      "name": "London",
+      "name": "Ishøj",
       "firmware": "1.0.0",
       "description": "Single pole transformer monitoring system. Temperature and vibration monitoring of three individual transformers",
       "message": "System online",
@@ -20,7 +20,7 @@
         12.421165
       ],
       "status": "red",
-      "name": "New York",
+      "name": "Kolding",
       "firmware": "1.2.3",
       "description": "This system is for demoing the SDAS UI and Cloud functionality. The system is currently configured for transformer monitoring.",
       "message": "Critical issue reported",
