@@ -130,6 +130,79 @@
       "message": "No issues reported",
       "type": "Transformer"
     }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "sender": "User 8",
+      "recipient": "User 4",
+      "subject": "Meeting Tomorrow",
+      "body": "Hi, we have a meeting tomorrow at 10am in the conference room. Please be on time.",
+      "sentAt": "2023-04-05T15:26:45.384Z",
+      "isRead": true
+    },
+    {
+      "id": "2",
+      "sender": "User 7",
+      "recipient": "User 2",
+      "subject": "Project Update",
+      "body": "Here's an update on the project we're working on. We're making good progress.",
+      "sentAt": "2023-04-04T09:12:34.567Z",
+      "isRead": false
+    },
+    {
+      "id": "3",
+      "sender": "User 4",
+      "recipient": "User 10",
+      "subject": "Lunch Plans",
+      "body": "Hey, do you want to grab lunch today? There's a new sushi place that just opened up.",
+      "sentAt": "2023-04-03T12:45:00.000Z",
+      "isRead": true
+    },
+    {
+      "id": "4",
+      "sender": "User 1",
+      "recipient": "User 6",
+      "subject": "Reminder",
+      "body": "Just a reminder that the deadline for the project is next week. Let me know if you need any help.",
+      "sentAt": "2023-04-02T17:30:00.000Z",
+      "isRead": false
+    },
+    {
+      "id": "5",
+      "sender": "User 5",
+      "recipient": "User 9",
+      "subject": "Happy Birthday!",
+      "body": "Happy Birthday! I hope you have a great day.",
+      "sentAt": "2023-04-01T08:00:00.000Z",
+      "isRead": true
+    },
+    {
+      "id": "6",
+      "sender": "User 3",
+      "recipient": "User 8",
+      "subject": "New Feature Request",
+      "body": "Hey, I was wondering if we could add a new feature to the app. Let me know what you think.",
+      "sentAt": "2022-12-31T23:59:59.999Z",
+      "isRead": false
+    },
+    {
+      "id": "7",
+      "sender": "User 2",
+      "recipient": "User 5",
+      "subject": "Thank You",
+      "body": "Thank you for your help with the project. We couldn't have done it without you.",
+      "sentAt": "2022-12-25T12:00:00.000Z",
+      "isRead": true
+    },
+    {
+      "id": "8",
+      "sender": "User 9",
+      "recipient": "User 1",
+      "subject": "Holiday Schedule",
+      "body": "Here's the schedule for the holiday season. Let me know if you have any questions.",
+      "sentAt": "2022-12-24T09:00:00.000Z",
+      "isRead": false
+    }
   ]
 }
-
